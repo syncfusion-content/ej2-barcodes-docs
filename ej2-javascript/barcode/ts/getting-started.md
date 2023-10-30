@@ -81,7 +81,7 @@ Add the HTML div element for the Barcode into your `index.html`. `[src/index.htm
     <meta name="author" content="Syncfusion" />
     <link rel="shortcut icon" href="resources/favicon.ico" />
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
-    </head>
+</head>
 
 <body>
      <!--container which is going to render the Barcode-->
